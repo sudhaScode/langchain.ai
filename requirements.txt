@@ -1,0 +1,15 @@
+llama-index
+pypdf
+pdfplumber
+python-dotenv
+ipykernel
+google-generativeai>=0.3.0
+sentence-transformers
+unstructured
+langchain
+langchain-community
+langchain-google-genai
+transformers
+pipdeptree
+reportlab
+langchain-openai
